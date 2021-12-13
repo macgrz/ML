@@ -1,3 +1,7 @@
+### ML with london_bike_sharing.csv dataset
+### Basic LinearRegression with visualization
+
+
     # Importing CSV as DataFrame
 import pandas as pd
 from sklearn.model_selection import train_test_split
