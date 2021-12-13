@@ -1,4 +1,4 @@
-### ML with Gapminder data set
+### ML with Gapminder dataset
 ### Basic pipeline with ElasticNet, StandardScaler, Imputation and 3-fold cross-validation
 ### Comparisson of models (untuned and tuned)
 
