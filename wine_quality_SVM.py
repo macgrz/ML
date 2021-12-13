@@ -1,5 +1,5 @@
-### DATA USED: https://archive.ics.uci.edu/ml/datasets/Wine+Quality ###
-### ML with white wine quality data set
+### DATA USED: https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+### ML with white wine quality dataset
 ### Basic pipeline with SVM classification and StandardScaler and 3-fold cross-validation
 ### Comparisson of models (untuned and tuned)
 
