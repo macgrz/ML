@@ -1,3 +1,8 @@
+# Spam SMS sentiment analysis 
+# SMS analysis: verbs, nouns, adjectives
+# SMS spam classification with comparison of 3 models (untuned, scaled by StandardScaler): KNeighborsClassifier, SVC, KMeans
+# With outputs
+
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
